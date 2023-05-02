@@ -1,5 +1,4 @@
-Bitext - Customer Support Intent Detection Training Dataset for RASA 
-========================================================================
+
 
 Overview
 --------
